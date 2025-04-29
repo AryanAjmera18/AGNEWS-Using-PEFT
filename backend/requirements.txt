@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers==4.40.2
+datasets
+peft
+evaluate
+mlflow
+torch

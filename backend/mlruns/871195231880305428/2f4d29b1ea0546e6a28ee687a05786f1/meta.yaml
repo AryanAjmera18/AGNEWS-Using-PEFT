@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataScienceBootCamp/AGnews/backend/mlruns/871195231880305428/2f4d29b1ea0546e6a28ee687a05786f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '871195231880305428'
+lifecycle_stage: active
+run_id: 2f4d29b1ea0546e6a28ee687a05786f1
+run_name: sincere-moose-680
+run_uuid: 2f4d29b1ea0546e6a28ee687a05786f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745906248615
+status: 1
+tags: []
+user_id: aryan
